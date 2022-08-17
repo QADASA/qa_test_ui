@@ -3,38 +3,13 @@
 Inicie o teste clonando este repositorio:
 
 ```bash
-git clone git@github.com:dasa-health/test-qa.git
+git clone git@github.com:QADASA/qa_test_ui.git
 ```
 
 Crie um repositorio no seu github e adicione as seguintes pessoas como reviewers:
 
-- [@guilhermedgl](https://github.com/guilhermedgl)
-- [@codermarcos](https://github.com/codermarcos)
-- [@onlurking](https://github.com/onlurking)
-- [@letfr](https://github.com/letfr)
+- [@Francllin](https://github.com/Francllin)
 
-
-Para realizar este teste você **PODE**:
-
-- Alterar o código caso veja necessidade (por ex: Para criar seletores melhores etc...).
-
-- Criar os testes na pasta [src/tests](./tests) a partir do clone deste repositorio usando o [cypress](https://www.cypress.io/).
-
-- Escrever os teste em um repositório separado do código usando sua stack prefirida (usar cypress é um *desejavel*) **LEMBRE-SE DE DOCUMENTAR**.
-
-- Escrever seus próprios cenários como preferir.
-
-- Apresentar **idéias** e apontar **bug** no projeto como preferir.
-
-**Não** pode:
-
-- Deixar de criar os testes para os cenários já existentes em [tests/e2e/scenarios](./tests/e2e/scenarios) de 0 a 4.
-
-- Esquecer de documentar se criar os testes separados do código.
-
-**Desejável**:
-
-- Que aplique as [boas praticas do cypress](https://docs.cypress.io/guides/references/best-practices.html)
 
 ## Setup do projeto
 
